@@ -15,7 +15,7 @@ This is a simple Text Processing Api for different text operations
 
 ### 4.Test the endpoint:
   - Open http://127.0.0.1:8000/docs. 
-  - Here we can send post requests different endpoints for testing. 
+  - Here we can send post requests to different endpoints for testing. 
 
 ### Endpoints:
 
